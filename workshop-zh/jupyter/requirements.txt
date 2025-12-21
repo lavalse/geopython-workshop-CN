@@ -1,0 +1,13 @@
+# Shapely  (via apt)
+tornado
+jupyter-client
+jupyter
+OWSLib
+geopandas
+descartes
+folium
+bokeh
+ipyleaflet
+pydeck
+pygeometa # >0.7 removed by Just
+matplotlib
